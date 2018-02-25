@@ -1,0 +1,12 @@
+Source: ros-lunar-octomap-pa
+Section: misc
+Priority: extra
+Maintainer: Peter Weissig <wepet@hrz.tu-chemnitz.de>
+Build-Depends: debhelper (>= 9.0.0), libpcl-dev, ros-lunar-catkin, ros-lunar-geometry-msgs, ros-lunar-laser-geometry, ros-lunar-message-generation, ros-lunar-nav-msgs, ros-lunar-octomap-msgs, ros-lunar-octomap-ros, ros-lunar-parameter-pa, ros-lunar-pcl-conversions, ros-lunar-pcl-ros, ros-lunar-roscpp, ros-lunar-sensor-msgs, ros-lunar-std-msgs, ros-lunar-std-srvs, ros-lunar-tf
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-lunar-octomap-pa
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libpcl1.7, ros-lunar-geometry-msgs, ros-lunar-laser-geometry, ros-lunar-message-runtime, ros-lunar-nav-msgs, ros-lunar-octomap-msgs, ros-lunar-octomap-ros, ros-lunar-parameter-pa, ros-lunar-pcl-conversions, ros-lunar-pcl-ros, ros-lunar-roscpp, ros-lunar-sensor-msgs, ros-lunar-std-msgs, ros-lunar-std-srvs, ros-lunar-tf
+Description: ProAut octomap package
