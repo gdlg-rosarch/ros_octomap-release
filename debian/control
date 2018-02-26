@@ -1,0 +1,12 @@
+Source: ros-indigo-octomap-pa
+Section: misc
+Priority: extra
+Maintainer: Peter Weissig <wepet@hrz.tu-chemnitz.de>
+Build-Depends: debhelper (>= 9.0.0), libpcl-1.7-all-dev, ros-indigo-catkin, ros-indigo-geometry-msgs, ros-indigo-laser-geometry, ros-indigo-message-generation, ros-indigo-nav-msgs, ros-indigo-octomap-msgs, ros-indigo-octomap-ros, ros-indigo-parameter-pa, ros-indigo-pcl-conversions, ros-indigo-pcl-ros, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-std-msgs, ros-indigo-std-srvs, ros-indigo-tf
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-octomap-pa
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libpcl-1.7-all, ros-indigo-geometry-msgs, ros-indigo-laser-geometry, ros-indigo-message-runtime, ros-indigo-nav-msgs, ros-indigo-octomap-msgs, ros-indigo-octomap-ros, ros-indigo-parameter-pa, ros-indigo-pcl-conversions, ros-indigo-pcl-ros, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-std-msgs, ros-indigo-std-srvs, ros-indigo-tf
+Description: ProAut octomap package
