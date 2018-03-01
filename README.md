@@ -1,3 +1,26 @@
+## octomap_pa (indigo) - 1.2.3-0
+
+The packages in the `octomap_pa` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo octomap_pa --edit` on `Thu, 01 Mar 2018 11:02:57 -0000`
+
+The `octomap_pa` package was released.
+
+Version of package(s) in repository `octomap_pa`:
+
+- upstream repository: https://github.com/TUC-ProAut/ros_octomap.git
+- release repository: https://github.com/TUC-ProAut/ros_octomap-release.git
+- rosdistro version: `1.2.2-1`
+- old version: `1.2.2-1`
+- new version: `1.2.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.2`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.1`
+- rosdistro version: `0.6.6`
+- vcstools version: `0.1.40`
+
+
 ## octomap_pa (kinetic) - 1.3.3-0
 
 The packages in the `octomap_pa` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic octomap_pa` on `Thu, 01 Mar 2018 10:47:36 -0000`
