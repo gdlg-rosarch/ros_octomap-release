@@ -1,0 +1,25 @@
+ros-kinetic-octomap-pa (1.3.3-0jessie) jessie; urgency=high
+
+  * Increased package version to avoid error on ros build farm
+    different branches need different release version
+    1.3.3 for master (== kinetic and lunar)
+    1.2.3 for indigo
+  * Contributors: Peter Weissig
+
+ -- Peter Weissig <wepet@hrz.tu-chemnitz.de>  Wed, 28 Feb 2018 23:00:00 -0000
+
+ros-kinetic-octomap-pa (1.2.2-0jessie) jessie; urgency=high
+
+  * add missing dependency on messages from this package
+  * Contributors: Mikael Arguedas
+
+ -- Peter Weissig <wepet@hrz.tu-chemnitz.de>  Sat, 24 Feb 2018 23:00:00 -0000
+
+ros-kinetic-octomap-pa (1.2.0-0jessie) jessie; urgency=high
+
+  * Initial ROS-Package
+  * Contributors: Peter Weissig
+
+ -- Peter Weissig <wepet@hrz.tu-chemnitz.de>  Fri, 16 Feb 2018 23:00:00 -0000
+
+
