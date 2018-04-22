@@ -2,7 +2,7 @@
 Changelog for package octomap_pa
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.2.3 (2018-03-01)
+1.3.3 (2018-03-01)
 ------------------
 * Increased package version to avoid error on ros build farm
   different branches need different release version
